@@ -9,3 +9,4 @@ export type PwdForm = {
   password: string
   newPassword: string
 }
+// data:image/gif;base64,
